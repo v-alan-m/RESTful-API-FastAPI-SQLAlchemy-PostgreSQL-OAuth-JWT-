@@ -1,2 +1,1 @@
-# RESTful API Using FastAPI, SQLAlchemy, PostgreSQL with OAuth and JWT
-
+Serverless using AWS Lambda for Python Developers
